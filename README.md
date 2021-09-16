@@ -25,5 +25,5 @@ Modum is expetced to be used to exercise test systems at a market place.
 
 
 **Further..**
-More information and downloads  are available at [https://www.hoddmimes.com/modum](https://www.hoddmimes.com/modum/indexmodum.htm)
+More information and downloads  are available at [https://www.hoddmimes.com/modum](https://www.hoddmimes.com/modum/modumindex.htm)
 
